@@ -1,7 +1,7 @@
 ### Olá ! Eu sou a Flávia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 ##
-- 👩‍💻 Estudante de Front-End - Aluna da 7ª geração [@Laboratória](https://www.laboratoria.la/br)
-- 📝 Estou aprendendo JavaScript, CSS e HTML.
+- 👩‍💻 Estudante de Front-End - Aluna da 7ª geração [Laboratória](https://www.laboratoria.la/br)
+- 📝 Estou aprendendo HTLM5 | CSS3 | Javascript | Node.js | Jest
 - 🎓 Formada em Administração de Empresas
 
 ##
