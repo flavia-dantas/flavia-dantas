@@ -1,14 +1,15 @@
 ### Olá ! Eu sou a Flávia 👋
-##
-- 👩‍💻 Estudante de Front-End - Aluna da 7ª geração [Laboratória](https://www.laboratoria.la/br)
-- 📝 Estou aprendendo HTLM5 | CSS3 | Javascript | Node.js | Jest | React
+### Bem vindos ao meu perfil GitHub 💻
+
+- 👩‍💻 Desenvolvedora Front-End Jr. [<Laboratória>](https://www.laboratoria.la/br)
+- 📝 HTLM5 | CSS3 | Javascript | Node.js | Jest | ReactJS
 - 🎓 Formada em Administração de Empresas
 
 ##
 <div align="center">
   <a href="https://github.com/flavia-dantas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavia-dantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavia-dantas&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavia-dantas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
