@@ -1,7 +1,7 @@
 ### Olá ! Eu sou a Flávia 👋
 ### Bem vindos ao meu perfil GitHub 💻
 
-- 👩‍💻 Desenvolvedora Front-End Jr. [<Laboratória>](https://www.laboratoria.la/br)
+- 👩‍💻 Desenvolvedora Front-End formada pela [<Laboratória>](https://www.laboratoria.la/br)
 - 📝 HTLM5 | CSS3 | Javascript | Node.js | Jest | ReactJS
 - 🎓 Formada em Administração de Empresas
 
@@ -13,9 +13,10 @@
 </div>
   
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Fla-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fla-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fla-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Fla-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fla-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Fla-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
